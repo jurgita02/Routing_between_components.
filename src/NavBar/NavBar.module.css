@@ -1,0 +1,13 @@
+.container {
+    background-color: lightcoral;
+    border: 1px solid black;
+    margin: 15px;
+    padding: 10px;
+  }
+  
+  .link {
+    margin: 10px;
+    padding: 10px;
+    font-size: 30px;
+    color: black;
+  }
